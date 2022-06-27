@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chess/static/css/main.fc293171.css",
-    "main.js": "/chess/static/js/main.a87a6140.js",
+    "main.css": "/chess/static/css/main.2729cf8c.css",
+    "main.js": "/chess/static/js/main.a220b34d.js",
     "static/js/787.45967197.chunk.js": "/chess/static/js/787.45967197.chunk.js",
     "static/media/king_piece_13.svg": "/chess/static/media/king_piece_13.a5e64aac1f35ffb5ef7448d464a8a950.svg",
     "static/media/pawn_piece_24.svg": "/chess/static/media/pawn_piece_24.5e15a0b0561b80c86e2f150ec93f7c11.svg",
@@ -16,12 +16,12 @@
     "static/media/knight_piece_17.svg": "/chess/static/media/knight_piece_17.55d8fa1d4569bf1bdd600cb602adb4fe.svg",
     "static/media/queen_piece.svg": "/chess/static/media/queen_piece.78bacf0390028ec8726fd1730b6ee3ba.svg",
     "index.html": "/chess/index.html",
-    "main.fc293171.css.map": "/chess/static/css/main.fc293171.css.map",
-    "main.a87a6140.js.map": "/chess/static/js/main.a87a6140.js.map",
+    "main.2729cf8c.css.map": "/chess/static/css/main.2729cf8c.css.map",
+    "main.a220b34d.js.map": "/chess/static/js/main.a220b34d.js.map",
     "787.45967197.chunk.js.map": "/chess/static/js/787.45967197.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc293171.css",
-    "static/js/main.a87a6140.js"
+    "static/css/main.2729cf8c.css",
+    "static/js/main.a220b34d.js"
   ]
 }
